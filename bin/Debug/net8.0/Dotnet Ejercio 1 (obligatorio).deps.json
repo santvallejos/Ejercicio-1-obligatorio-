@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dotnet Ejercio 1 (obligatorio)/1.0.0": {
+        "runtime": {
+          "Dotnet Ejercio 1 (obligatorio).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dotnet Ejercio 1 (obligatorio)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

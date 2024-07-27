@@ -1,0 +1,42 @@
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio)
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).deps.json
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).runtimeconfig.json
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).GeneratedMSBuildEditorConfig.editorconfig
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).AssemblyInfoInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).AssemblyInfo.cs
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).csproj.CoreCompileInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/refint/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).genruntimeconfig.cache
+/Users/soficubilla/Documents/VSC/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/ref/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio)
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).deps.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).runtimeconfig.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).GeneratedMSBuildEditorConfig.editorconfig
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).AssemblyInfoInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).AssemblyInfo.cs
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).csproj.CoreCompileInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/refint/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).genruntimeconfig.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Dotnet Ejercio 1 (obligatorio)/obj/Debug/net8.0/ref/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).GeneratedMSBuildEditorConfig.editorconfig
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).AssemblyInfoInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).AssemblyInfo.cs
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).csproj.CoreCompileInputs.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/refint/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio)
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).deps.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).runtimeconfig.json
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).dll
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/bin/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).pdb
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/Dotnet Ejercio 1 (obligatorio).genruntimeconfig.cache
+/Users/soficubilla/Documents/VSC/Dotnet Bootcamp/Weather Forecast Ejercicio 1 (obligatorio)/obj/Debug/net8.0/ref/Dotnet Ejercio 1 (obligatorio).dll
